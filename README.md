@@ -1,0 +1,1 @@
+#### IMDb sentiment analysis using a Bernoulli classifier involves training a machine learning model to classify movie reviews as either positive or negative based on the text content of the review. The Bernoulli classifier is a probabilistic model that uses a binary feature vector to represent each review.
